@@ -1,0 +1,10 @@
+# Xcode — служебные файлы, их не нужно хранить в GitHub
+build/
+DerivedData/
+*.xcuserdatad
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+__MACOSX/
